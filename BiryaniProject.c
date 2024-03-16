@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <time.h>
-
+#define rith 100
 typedef struct raw {
         int8_t rice;
         int16_t water;
