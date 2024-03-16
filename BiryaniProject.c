@@ -48,6 +48,7 @@ void checkStock(int stock){
 }
 
 void cookBiryani(){
+	printf("hi ashish\n");
     printf("\nCook Biryani in Machine...!\n");
 
     printf("Set quantity of Rice (in kg): ");
