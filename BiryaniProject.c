@@ -29,6 +29,8 @@ void cookBiryani();
 void addStock();
 void viewStock();
 
+/*adding comment*/
+
 void delay (int sec){
     int milli_sec = 1000 * sec;
     clock_t start_time = clock();
